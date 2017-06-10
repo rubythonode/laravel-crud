@@ -26,4 +26,18 @@ class User extends Authenticatable
     protected $hidden = [
         'password', 'remember_token',
     ];
+
+
+    /**
+     * Get the route key name for Laravel.
+     * This basiccaly gives you a nicer url so you can go
+     * to a profile with the name and not the id of the user.
+     * YOU CAN REMOVE THIS IF YOU WANT.
+     *
+     * @return string
+     */
+    public function getRouteKeyName()
+    {
+        return 'name';
+    }
 }
