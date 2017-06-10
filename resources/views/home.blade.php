@@ -7,10 +7,10 @@
             justify-content: center;
         }
         .title {
-            font-size: 84px;
+            font-size: 100px;
         }
         .full-height {
-            height: 100vh;
+            height: 80vh;
         }
     </style>
 @stop
@@ -19,7 +19,7 @@
     <div class="row">
         <div class="flex-center full-height">
             <div class="title">
-                This is your homepage
+                HOMEPAGE
             </div>
         </div>
     </div>
