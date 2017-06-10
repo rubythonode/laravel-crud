@@ -98,19 +98,19 @@
                     },
                 },
                 messages:{
-                    name:"אנא הכניסו שם בעל 2 תווים ומעלה",
+                    name:"This should be 2 or up",
                     password:{
-                        required:"שדה הסיסמה הוא חובה",
-                        minlength:"הסיסמה חייבת להיות עם 6 תווים ומעלה"
+                        required:"Come on... you know the password is a must",
+                        minlength:"And the password must be 6 digits or more..."
                     },
                     email:{
-                        required:"אנא הכניסו כתובת אי-מייל",
-                        email:"אנא הכניסו כתובת אי-מייל תקינה"
+                        required:"How can i deal with no E-Mail? type it in...",
+                        email:"Type in a proper E-mail please... pretty please"
                     },
                     password_confirmation:{
-                        required:"חובה למלא שדה זה",
-                        minlength: "לפחות 6 תווים ומעלה",
-                        equalTo:"הסיסמאות חייבות להיות זהות"
+                        required:"This is a must!",
+                        minlength: "6 or up my friend.",
+                        equalTo:"Make them twins!"
                     }
                 },
             });
