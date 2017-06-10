@@ -3,7 +3,7 @@ A boilerplate for a laravel (5.4) application. start your new web app, faster.
 Some of the things that come with this:
 1. Laravel debugbar for almost everything you need while in devolopment.
 2. jquery-validation for more efficient registration for the users.
-3. the make:auth command.
+3. Authentication scaffolding.
 4. A basic view for the profile page.
 
 `To get this installed, all you need to do is`:
