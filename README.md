@@ -1,5 +1,5 @@
 # laravel-crud
-A boilerplate for a laravel (5.4) aplication. start your new web app, faster.
+A boilerplate for a laravel (5.4) application. start your new web app, faster.
 Some of the things that come with this:
 1. Laravel debugbar for almost everything you need while in devolopment.
 2. jquery-validation for more efficient registration for the users.
